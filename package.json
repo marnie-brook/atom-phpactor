@@ -1,7 +1,7 @@
 {
   "name": "atom-phpactor",
   "main": "./lib/atom-phpactor",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "git@github.com:william-brook/atom-phpactor.git",
