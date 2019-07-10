@@ -3,9 +3,8 @@
   "main": "./lib/atom-phpactor",
   "version": "0.0.1",
   "description": "A short description of your package",
-  "keywords": [
-  ],
-  "repository": "https://github.com/atom/atom-phpactor",
+  "keywords": [],
+  "repository": "git@github.com:william-brook/atom-phpactor.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
