@@ -10,6 +10,14 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "2.2.0"
+    "atom-space-pen-views": "2.2.0",
+    "autocomplete-plus": "2.42.3"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "completionProvider"
+      }
+    }
   }
 }
