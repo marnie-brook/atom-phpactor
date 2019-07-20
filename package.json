@@ -2,8 +2,14 @@
   "name": "atom-phpactor",
   "main": "./lib/atom-phpactor",
   "version": "0.3.1",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Integration for phpactor from php files",
+  "keywords": [
+    "php",
+    "phpactor",
+    "autocomplete",
+    "navigation",
+    "refactoring"
+  ],
   "repository": "git@github.com:william-brook/atom-phpactor.git",
   "license": "MIT",
   "engines": {
