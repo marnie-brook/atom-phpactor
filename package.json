@@ -1,7 +1,7 @@
 {
   "name": "atom-phpactor",
   "main": "./lib/atom-phpactor",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "Integration for phpactor from php files",
   "keywords": [
     "php",
